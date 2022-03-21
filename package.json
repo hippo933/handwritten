@@ -1,0 +1,17 @@
+{
+  "name": "handwritten",
+  "version": "1.0.0",
+  "description": "Practice my handwriting skills",
+  "main": "promise.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test:prom": "node test/promise.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
