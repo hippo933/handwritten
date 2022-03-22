@@ -13,6 +13,6 @@
 
 ## TODO
 - [x]promise
-- [ ]deepClone
+- [x]deepClone
 - [ ]debounce
 - [ ]throttle
